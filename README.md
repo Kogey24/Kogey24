@@ -1,9 +1,9 @@
 ## Hi, My name is Harmmerton Kogi.
 
 I'm a fullstack software developer and a mobile developer in general.</br>
-In more detail I design front-end User Interfaces utilizing the Angular framework for scalable and interactive web and systems application.</br>
-I also design Mobile applications utilizing the flutter cross-platform framework for very beautiful and reliable applications with a keen eye for beautiful design to enhance user experience.</br>
-I'm well established in the back-end development as well were I have build and Intergrated secure and reliable API'S utilizing the powerful abilities of the ASP.NET framework and Springboot.</br>
+In more detail I design front-end User Interfaces utilizing Angular framework for scalable and interactive web and systems application.</br>
+I also design Mobile applications utilizing the flutter cross-platform framework for very beautiful and reliable applications with a keen eye for beautiful design and use code optimization to enhance the overall user experience.</br>
+I'm well established in  back-end development as well where I build and Intergrate secure and reliable API'S utilizing the powerful abilities of the ASP.NET framework and Springboot.</br>
 
 ## Fun facts about me
 I'm a very versatile and flexible guy, a happy guy, who find joy and satisfaction in creation and design to fulfill user requirements.</br>
@@ -14,6 +14,7 @@ I'm willing to extend my curiousity towards cloud computing and cybersecurity wh
 I like reading books and I enjoy a healthy chit-chat here and there.</br>
 I love art! I love working out and coffee.</br>
 I also engage in writing articles and I would like to begin a blog soon and eventually create videos to educate more people with similar interests.</br>
+I like sculpting and making animations in my free time which also comes full circle when designing applications.
 
 
 ## 🌐 Socials:
@@ -28,5 +29,8 @@ I also engage in writing articles and I would like to begin a blog soon and even
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kogey24&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# Portfolio Website
+harmmertonkogi.vercel.app
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
